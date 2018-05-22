@@ -17,14 +17,16 @@ Hi! I'm a second year PhD student of [Computer Science Department](http://www.cs
 ## News
 
 ## Publications
-1. **Fast Variance Reduction Method**. Xuanqing Liu, Cho-Jui Hsieh. ICML 2018.
+1. **Fast Variance Reduction Method with Stochastic Batch Size**. Xuanqing Liu, Cho-Jui Hsieh. To appear at *International Conference on Machine Learning (2018)*.
 
 
 ## Pre-prints
-1. **Proximal Newton Method**
+1. **Towards Robust Neural Networks via Random Self-ensemble**, Xuanqing Liu, Minhao Cheng, Huan Zhang, Cho-Jui Hsieh. *ArXiv preprint (2018)*.
+
+1. **An inexact subsampled proximal Newton-type method for large-scale machine learning**, Xuanqing Liu, Cho-Jui Hsieh\*, Jason D.Lee\*, Yuekai Sun\* (\*alphabetic order). *ArXiv preprint (2017)*.
 
 
 ## Industry experience
 1. `Jun-Sep, 2018` **Criteo Inc.** *Palo Alto, CA*
     
-    dddd
+    TBD 
