@@ -18,8 +18,13 @@ Hi! I'm a second year PhD student of [Computer Science Department](http://www.cs
 
 ## Publications
 1. **Fast Variance Reduction Method**. Xuanqing Liu, Cho-Jui Hsieh. ICML 2018.
+
+
 ## Pre-prints
 1. **Proximal Newton Method**
+
+
 ## Industry experience
 1. `Jun-Sep, 2018` **Criteo Inc.** *Palo Alto, CA*
+    
     dddd
