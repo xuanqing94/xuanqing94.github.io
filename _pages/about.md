@@ -17,7 +17,7 @@ I'm a second year PhD student of [Computer Science Department](http://www.cs.ucd
 ## News
 
 ## Publications
-+ **Towards Robust Neural Networks via Random Self-ensemble**, Xuanqing Liu, Minhao Cheng, Huan Zhang, Cho-Jui Hsieh. *ECCV (2018)*.
++ **Towards Robust Neural Networks via Random Self-ensemble**, Xuanqing Liu, Minhao Cheng, Huan Zhang, Cho-Jui Hsieh. To appear at *ECCV (2018)*.
 + **Fast Variance Reduction Method with Stochastic Batch Size**. Xuanqing Liu, Cho-Jui Hsieh. To appear at *ICML (2018)*.
 
 
