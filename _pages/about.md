@@ -22,5 +22,6 @@ I'm a second year PhD student of [Computer Science Department](http://www.cs.ucd
 
 
 ## Preprints
++ **From Adversarial Training to Generative Adversarial Networks**, Xuanqing Liu, Cho-Jui Hsieh. *ArXiv preprint (2018)*. 
 + **An inexact subsampled proximal Newton-type method for large-scale machine learning**, Xuanqing Liu, Cho-Jui Hsieh\*, Jason D. Lee\*, Yuekai Sun\* (\*alphabetical order). *ArXiv preprint (2017)*.
 
