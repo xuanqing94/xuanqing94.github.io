@@ -16,12 +16,13 @@ I'm a second year PhD student of [Computer Science Department](http://www.cs.ucd
 
 ## News
 
-## Publications
-+ **Towards Robust Neural Networks via Random Self-ensemble**, Xuanqing Liu, Minhao Cheng, Huan Zhang, Cho-Jui Hsieh. To appear at *ECCV (2018)*.
-+ **Fast Variance Reduction Method with Stochastic Batch Size**. Xuanqing Liu, Cho-Jui Hsieh. To appear at *ICML (2018)*.
-
-
 ## Preprints
-+ **From Adversarial Training to Generative Adversarial Networks**, Xuanqing Liu, Cho-Jui Hsieh. *ArXiv preprint (2018)*. 
-+ **An inexact subsampled proximal Newton-type method for large-scale machine learning**, Xuanqing Liu, Cho-Jui Hsieh\*, Jason D. Lee\*, Yuekai Sun\* (\*alphabetical order). *ArXiv preprint (2017)*.
++ **From Adversarial Training to Generative Adversarial Networks**, Xuanqing Liu, Cho-Jui Hsieh. *ArXiv preprint (2018)*. [PDF](https://arxiv.org/pdf/1807.10454.pdf) [CODE](https://github.com/xuanqing94/AdvGAN) 
++ **An inexact subsampled proximal Newton-type method for large-scale machine learning**, Xuanqing Liu, Cho-Jui Hsieh\*, Jason D. Lee\*, Yuekai Sun\* (\*alphabetical order). *ArXiv preprint (2017)*. [PDF](https://arxiv.org/pdf/1708.08552.pdf)
 
+## Publications
++ **Towards Robust Neural Networks via Random Self-ensemble**, Xuanqing Liu, Minhao Cheng, Huan Zhang, Cho-Jui Hsieh. *ECCV (2018)*. [PDF](https://arxiv.org/pdf/1712.00673.pdf) [CODE](https://github.com/xuanqing94/RobustNet)
++ **Fast Variance Reduction Method with Stochastic Batch Size**. Xuanqing Liu, Cho-Jui Hsieh. *ICML (2018)*. [PDF](https://arxiv.org/pdf/1808.02169.pdf)
+
+## Drafts
++ **Better Generalization by Efficient Trust Region Method**. Xuanqing Liu, Jason D. Lee, Cho-Jui Hsieh. *OpenReview.net*. [PDF](https://openreview.net/pdf?id=HJjePwx0-)
