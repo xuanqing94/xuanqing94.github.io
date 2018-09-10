@@ -26,3 +26,8 @@ I'm a second year PhD student of [Computer Science Department](http://www.cs.ucd
 
 ## Drafts
 + **Better Generalization by Efficient Trust Region Method**. Xuanqing Liu, Jason D. Lee, Cho-Jui Hsieh. *OpenReview.net*. [PDF](https://openreview.net/pdf?id=HJjePwx0-)
+
+## Experience
+
++ Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
+
