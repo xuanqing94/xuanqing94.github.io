@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xuanqing Liu"
 title_separator          : "-"
 name                     : &name "Xuanqing Liu"
-description              : &description "2nd Year PhD student"
+description              : &description "3rd Year PhD student"
 url                      : "https://xuanqing94.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuanqing94/xuanqing94.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Xuanqing Liu"
   avatar           : "profile.jpg"
-  bio              : "2nd year Ph.D. student"
+  bio              : "3rd year Ph.D. student"
   location         : "UC Davis"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=47EBD1QAAAAJ&hl=en"
