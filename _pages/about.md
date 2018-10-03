@@ -17,7 +17,7 @@ I'm a third year PhD student of [Computer Science Department](http://www.cs.ucda
 ## News
 
 ## Preprints
-+ **Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network**, Xuanqing Liu, Yao Li\*, Chongruo Wu\*, Cho-Jui Hsieh. *ArXiv preprint (2018)*. [PDF](https://arxiv.org/pdf/1810.01279.pdf)
++ **Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network**, Xuanqing Liu, Yao Li\*, Chongruo Wu\*, Cho-Jui Hsieh (\*equal contribution). *ArXiv preprint (2018)*. [PDF](https://arxiv.org/pdf/1810.01279.pdf)
 + **Stochastic Second-order Methods for Non-convex Optimization with Inexact Hessian and Gradient**, Liu Liu, Xuanqing Liu, Cho-Jui Hsieh, Dacheng Tao. *ArXiv preprint (2018)*. [PDF](https://arxiv.org/pdf/1809.09853.pdf)
 + **From Adversarial Training to Generative Adversarial Networks**, Xuanqing Liu, Cho-Jui Hsieh. *ArXiv preprint (2018)*. [PDF](https://arxiv.org/pdf/1807.10454.pdf) [CODE](https://github.com/xuanqing94/AdvGAN) 
 + **An inexact subsampled proximal Newton-type method for large-scale machine learning**, Xuanqing Liu, Cho-Jui Hsieh\*, Jason D. Lee\*, Yuekai Sun\* (\*alphabetical order). *ArXiv preprint (2017)*. [PDF](https://arxiv.org/pdf/1708.08552.pdf)
