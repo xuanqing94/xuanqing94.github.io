@@ -22,12 +22,12 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) a
 ## News
 
 ## Preprints
-+ **Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network**, Xuanqing Liu, Yao Li\*, Chongruo Wu\*, Cho-Jui Hsieh (\*equal contribution). *ArXiv preprint (2018)*. [PDF](https://arxiv.org/pdf/1810.01279.pdf)
 + **Stochastic Second-order Methods for Non-convex Optimization with Inexact Hessian and Gradient**, Liu Liu, Xuanqing Liu, Cho-Jui Hsieh, Dacheng Tao. *ArXiv preprint (2018)*. [PDF](https://arxiv.org/pdf/1809.09853.pdf)
 + **From Adversarial Training to Generative Adversarial Networks**, Xuanqing Liu, Cho-Jui Hsieh. *ArXiv preprint (2018)*. [PDF](https://arxiv.org/pdf/1807.10454.pdf) [CODE](https://github.com/xuanqing94/AdvGAN) 
 + **An inexact subsampled proximal Newton-type method for large-scale machine learning**, Xuanqing Liu, Cho-Jui Hsieh\*, Jason D. Lee\*, Yuekai Sun\* (\*alphabetical order). *ArXiv preprint (2017)*. [PDF](https://arxiv.org/pdf/1708.08552.pdf)
 
 ## Publications
++ **Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network**, Xuanqing Liu, Yao Li\*, Chongruo Wu\*, Cho-Jui Hsieh (\*equal contribution). *To appear at ICLR (2019)*. [PDF](https://arxiv.org/pdf/1810.01279.pdf) [CODE](https://github.com/xuanqing94/BayesianDefense)
 + **Towards Robust Neural Networks via Random Self-ensemble**, Xuanqing Liu, Minhao Cheng, Huan Zhang, Cho-Jui Hsieh. *ECCV (2018)*. [PDF](https://arxiv.org/pdf/1712.00673.pdf) [CODE](https://github.com/xuanqing94/RobustNet)
 + **Fast Variance Reduction Method with Stochastic Batch Size**. Xuanqing Liu, Cho-Jui Hsieh. *ICML (2018)*. [PDF](https://arxiv.org/pdf/1808.02169.pdf)
 
