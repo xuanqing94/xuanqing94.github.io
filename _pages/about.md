@@ -39,4 +39,4 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) a
 + Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
 
 ## Service
-I serve as reviewer for CVPR 2019, ICML 2019
+I serve as a reviewer for CVPR 2019, ICML 2019
