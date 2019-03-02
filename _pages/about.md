@@ -38,5 +38,5 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) a
 + Fall 2018, **Student Research Collaborator**, *Google Research* (Mountain View, CA)
 + Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
 
-## Service
-I serve as a reviewer for CVPR 2019, ICML 2019
+## Services
+I serve as a reviewer for CVPR 2019, ICML 2019, ICCV 2019
