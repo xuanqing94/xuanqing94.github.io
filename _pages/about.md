@@ -26,8 +26,9 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) a
 + **An inexact subsampled proximal Newton-type method for large-scale machine learning**, Xuanqing Liu, Cho-Jui Hsieh\*, Jason D. Lee\*, Yuekai Sun\* (\*alphabetical order). *ArXiv preprint (2017)*. [\[PDF\]](https://arxiv.org/pdf/1708.08552.pdf)
 
 ## Publications
-+ **Rob-GAN: Generator, Discriminator and Adversarial Attacker**, Xuanqing Liu, Cho-Jui Hsieh. *To appear at CVPR (2019)*. [\[PDF\]](https://arxiv.org/pdf/1807.10454.pdf) [\[CODE\]](https://github.com/xuanqing94/AdvGAN)
-+ **Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network**, Xuanqing Liu, Yao Li\*, Chongruo Wu\*, Cho-Jui Hsieh (\*equal contribution). *To appear at ICLR (2019)*. [\[PDF\]](https://arxiv.org/pdf/1810.01279.pdf) [\[CODE\]](https://github.com/xuanqing94/BayesianDefense)
++ **Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks**, Wei-Lin Chiang, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, Cho-Jui Hsieh. *To appear at KDD (2019)*.
++ **Rob-GAN: Generator, Discriminator and Adversarial Attacker**, Xuanqing Liu, Cho-Jui Hsieh. *CVPR (2019)*. [\[PDF\]](https://arxiv.org/pdf/1807.10454.pdf) [\[CODE\]](https://github.com/xuanqing94/AdvGAN)
++ **Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network**, Xuanqing Liu, Yao Li\*, Chongruo Wu\*, Cho-Jui Hsieh (\*equal contribution). *ICLR (2019)*. [\[PDF\]](https://arxiv.org/pdf/1810.01279.pdf) [\[CODE\]](https://github.com/xuanqing94/BayesianDefense)
 + **Towards Robust Neural Networks via Random Self-ensemble**, Xuanqing Liu, Minhao Cheng, Huan Zhang, Cho-Jui Hsieh. *ECCV (2018)*. [\[PDF\]](https://arxiv.org/pdf/1712.00673.pdf) [\[Appendix\]](/files/RSE_supp.pdf) [\[CODE\]](https://github.com/xuanqing94/RobustNet)
 + **Fast Variance Reduction Method with Stochastic Batch Size**. Xuanqing Liu, Cho-Jui Hsieh. *ICML (2018)*. [\[PDF\]](https://arxiv.org/pdf/1808.02169.pdf)
 
@@ -35,8 +36,9 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) a
 + **Better Generalization by Efficient Trust Region Method**. Xuanqing Liu, Jason D. Lee, Cho-Jui Hsieh. *OpenReview.net*. [\[PDF\]](https://openreview.net/pdf?id=HJjePwx0-)
 
 ## Experience
-+ Fall 2018, **Student Research Collaborator**, *Google Research* (Mountain View, CA)
++ Summer 2019, **Research Scientist Intern**, *Amazon A9* (Palo Alto, CA)
++ Fall/Winter 2018, **Student Research Collaborator**, *Google Research* (Mountain View, CA)
 + Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
 
 ## Services
-I serve as a reviewer for CVPR 2019, ICML 2019, ICCV 2019
+I serve as a reviewer for CVPR 2019, ICML 2019, ICCV 2019, IJCAI 2019
