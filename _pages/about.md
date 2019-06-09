@@ -22,11 +22,12 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) a
 ## News
 
 ## Preprints
++ **Neural SDE: Stabilizing Neural ODE Networks with Stochastic Noise**, Xuanqing Liu, Tesi Xiao, Si Si, Qin Cao, Sanjiv Kumar, Cho-Jui Hsieh. *ArXiv preprint (2019)* [\[PDF\]] (https://arxiv.org/pdf/1906.02355.pdf)
 + **Stochastic Second-order Methods for Non-convex Optimization with Inexact Hessian and Gradient**, Liu Liu, Xuanqing Liu, Cho-Jui Hsieh, Dacheng Tao. *ArXiv preprint (2018)*. [\[PDF\]](https://arxiv.org/pdf/1809.09853.pdf)
 + **An inexact subsampled proximal Newton-type method for large-scale machine learning**, Xuanqing Liu, Cho-Jui Hsieh\*, Jason D. Lee\*, Yuekai Sun\* (\*alphabetical order). *ArXiv preprint (2017)*. [\[PDF\]](https://arxiv.org/pdf/1708.08552.pdf)
 
 ## Publications
-+ **Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks**, Wei-Lin Chiang, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, Cho-Jui Hsieh. *To appear at KDD (2019)*.
++ **Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks**, Wei-Lin Chiang, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, Cho-Jui Hsieh. *To appear at KDD (2019)* [\[PDF\]](https://arxiv.org/pdf/1905.07953.pdf).
 + **Rob-GAN: Generator, Discriminator and Adversarial Attacker**, Xuanqing Liu, Cho-Jui Hsieh. *CVPR (2019)*. [\[PDF\]](https://arxiv.org/pdf/1807.10454.pdf) [\[CODE\]](https://github.com/xuanqing94/AdvGAN)
 + **Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network**, Xuanqing Liu, Yao Li\*, Chongruo Wu\*, Cho-Jui Hsieh (\*equal contribution). *ICLR (2019)*. [\[PDF\]](https://arxiv.org/pdf/1810.01279.pdf) [\[CODE\]](https://github.com/xuanqing94/BayesianDefense)
 + **Towards Robust Neural Networks via Random Self-ensemble**, Xuanqing Liu, Minhao Cheng, Huan Zhang, Cho-Jui Hsieh. *ECCV (2018)*. [\[PDF\]](https://arxiv.org/pdf/1712.00673.pdf) [\[Appendix\]](/files/RSE_supp.pdf) [\[CODE\]](https://github.com/xuanqing94/RobustNet)
