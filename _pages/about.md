@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) at [UCLA](https://www.ucla.edu/), advised by [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/). Prior to that, I received my B.S. degree at [School of Physics](http://www.phy.pku.edu.cn/English.html), [Peking University](http://english.pku.edu.cn/) in 2016 (thesis advisor: [Qite Li](http://www.phy.pku.edu.cn/~liqt/index.html)). Before graduation, I was a research intern studing natural language processing, advised by [Yansong Feng](https://sites.google.com/site/ysfeng/home). Currently my reseach interests are optimization problems in machine learning, robust neural networks and generative modeling, specifically:
+I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) at [UCLA](https://www.ucla.edu/), advised by [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/). Prior to that, I received my B.S. degree at [School of Physics](http://www.phy.pku.edu.cn/English.html), [Peking University](http://english.pku.edu.cn/) in 2016 (thesis advisor: [Qite Li](http://www.phy.pku.edu.cn/~liqt/index.html)). Before graduation, I was a research intern studying natural language processing, advised by [Yansong Feng](https://sites.google.com/site/ysfeng/home). Currently my reseach interests are optimization problems in machine learning, robust neural networks and generative modeling, specifically:
 
 + Convex/non-convex optimization algorithms for efficient machine learning
 + Robust neural networks
@@ -44,4 +44,4 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) a
 + Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
 
 ## Services
-I serve as a reviewer for CVPR 2019, ICML 2019, ICCV 2019, IJCAI 2019
+I serve as a reviewer for ICML, NeurIPS, CVPR, ICCV, IJCAI, AAAI.
