@@ -14,6 +14,10 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) a
 + Robust neural networks
 + Efficient learning of generative models
 
+Address: EVI 295, 404 Westwood Plaza, Los Angeles, CA 90095
+Email: NAME@cs.ucla.edu (NAME=xqliu)
+[Curriculum vitae](/files/cv.pdf)
+
 ## Education
 + Fall 2018 --- Now, Ph.D. student, Department of Computer Science, UCLA
 + Fall 2016 --- Spring 2018 (transferred out), Ph.D. student, Department of Computer Science, UC Davis
