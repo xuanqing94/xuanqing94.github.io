@@ -15,7 +15,6 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) a
 + Efficient learning of generative models
 
 [Curriculum vitae](/files/cv.pdf)  
-[Research Statement](/files/Statement.pdf)
 
 ## Education
 + Fall 2018 --- Now, Ph.D. student, Department of Computer Science, UCLA
