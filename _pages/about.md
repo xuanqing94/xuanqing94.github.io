@@ -33,9 +33,9 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) a
 ## Publications
 + **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning**, Xuanqing Liu, Si Si, Xiaojin(Jerry) Zhu, Yang Li, Cho-Jui Hsieh. *To appear at NeurIPS 2019* [\[PDF\]](https://arxiv.org/pdf/1910.14147.pdf) [\[Poster\]](https://drive.google.com/drive/u/0/folders/1qUWVD0cb4wBsSuaDq9w8SRIXKt1_Y7i1)
 + **Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks**, Wei-Lin Chiang, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, Cho-Jui Hsieh. *KDD (2019)* [\[PDF\]](https://arxiv.org/pdf/1905.07953.pdf)
-+ **Rob-GAN: Generator, Discriminator and Adversarial Attacker**, Xuanqing Liu, Cho-Jui Hsieh. *CVPR (2019)*. [\[PDF\]](https://arxiv.org/pdf/1807.10454.pdf) [\[CODE\]](https://github.com/xuanqing94/AdvGAN)
-+ **Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network**, Xuanqing Liu, Yao Li\*, Chongruo Wu\*, Cho-Jui Hsieh (\*equal contribution). *ICLR (2019)*. [\[PDF\]](https://arxiv.org/pdf/1810.01279.pdf) [\[CODE\]](https://github.com/xuanqing94/BayesianDefense)
-+ **Towards Robust Neural Networks via Random Self-ensemble**, Xuanqing Liu, Minhao Cheng, Huan Zhang, Cho-Jui Hsieh. *ECCV (2018)*. [\[PDF\]](https://arxiv.org/pdf/1712.00673.pdf) [\[Appendix\]](/files/RSE_supp.pdf) [\[CODE\]](https://github.com/xuanqing94/RobustNet)
++ **Rob-GAN: Generator, Discriminator and Adversarial Attacker**, Xuanqing Liu, Cho-Jui Hsieh. *CVPR (2019)*. [\[PDF\]](https://arxiv.org/pdf/1807.10454.pdf) [\[Code\]](https://github.com/xuanqing94/AdvGAN)
++ **Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network**, Xuanqing Liu, Yao Li\*, Chongruo Wu\*, Cho-Jui Hsieh (\*equal contribution). *ICLR (2019)*. [\[PDF\]](https://arxiv.org/pdf/1810.01279.pdf) [\[Code\]](https://github.com/xuanqing94/BayesianDefense)
++ **Towards Robust Neural Networks via Random Self-ensemble**, Xuanqing Liu, Minhao Cheng, Huan Zhang, Cho-Jui Hsieh. *ECCV (2018)*. [\[PDF\]](https://arxiv.org/pdf/1712.00673.pdf) [\[Appendix\]](/files/RSE_supp.pdf) [\[Code\]](https://github.com/xuanqing94/RobustNet)
 + **Fast Variance Reduction Method with Stochastic Batch Size**. Xuanqing Liu, Cho-Jui Hsieh. *ICML (2018)*. [\[PDF\]](https://arxiv.org/pdf/1808.02169.pdf)
 
 ## Drafts
