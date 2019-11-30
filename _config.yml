@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xuanqing Liu"
 title_separator          : "-"
-name                     : &name "Xuanqing Liu"
+name                     : &name "Xuanqing Liu<br>刘轩清"
 description              : &description "PhD student"
 url                      : "https://xuanqing94.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
