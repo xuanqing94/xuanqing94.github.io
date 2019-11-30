@@ -42,7 +42,7 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) a
 + **Better Generalization by Efficient Trust Region Method**. Xuanqing Liu, Jason D. Lee, Cho-Jui Hsieh. *OpenReview.net*. [\[PDF\]](https://openreview.net/pdf?id=HJjePwx0-)
 
 ## Experience
-+ Summer 2019, **Research Scientist Intern**, *Amazon A9* (Palo Alto, CA)
++ Summer/Fall 2019, **Research Scientist Intern**, *Amazon A9* (Palo Alto, CA)
 + Fall/Winter 2018, **Student Research Collaborator**, *Google Research* (Mountain View, CA)
 + Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
 
