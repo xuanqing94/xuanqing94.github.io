@@ -47,4 +47,4 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucdavis.edu/) a
 + Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
 
 ## Services
-I serve as a reviewer for ICML, NeurIPS, CVPR, ICCV, IJCAI, AAAI and TPAMI.
+I serve as a reviewer for ICML, NeurIPS, CVPR, ICCV, ECCV, IJCAI, AAAI and TPAMI.
