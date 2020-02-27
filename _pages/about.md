@@ -27,6 +27,7 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucla.edu/) at [
 + **Gradient Boosting Neural Networks: GrowNet**, Sarkhan Badirli, Xuanqing Liu, Zhengming Xing, Avradeep Bhowmik, Sathiya S. Keerthi. *ArXiv preprint (2020)* [\[PDF\]](https://arxiv.org/pdf/2002.07971.pdf)
 + **Evaluating the Robustness of Nearest Neighbor Classifiers: A Primal-Dual Perspective**, Lu Wang, Xuanqing Liu, Jinfeng Yi, Zhi-Hua Zhou, Cho-Jui Hsieh
 . *ArXiv preprint (2019)* [\[PDF\]](https://arxiv.org/pdf/1906.03972.pdf) [\[Code\]](https://github.com/wangwllu/knn_robustness)
++ GraphDefense: Towards Robust Graph Convolutional Networks, Xiaoyun Wang, Xuanqing Liu, Cho-Jui Hsieh. ArXiv preprint (2019) [\[PDF\]](https://arxiv.org/pdf/1911.04429.pdf)
 + **Stochastic Second-order Methods for Non-convex Optimization with Inexact Hessian and Gradient**, Liu Liu, Xuanqing Liu, Cho-Jui Hsieh, Dacheng Tao. *ArXiv preprint (2018)*. [\[PDF\]](https://arxiv.org/pdf/1809.09853.pdf)
 + **An inexact subsampled proximal Newton-type method for large-scale machine learning**, Xuanqing Liu, Cho-Jui Hsieh\*, Jason D. Lee\*, Yuekai Sun\* (\*alphabetical order). *ArXiv preprint (2017)*. [\[PDF\]](https://arxiv.org/pdf/1708.08552.pdf)
 
