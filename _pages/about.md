@@ -32,6 +32,7 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucla.edu/) at [
 + **An inexact subsampled proximal Newton-type method for large-scale machine learning**, Xuanqing Liu, Cho-Jui Hsieh\*, Jason D. Lee\*, Yuekai Sun\* (\*alphabetical order). *ArXiv preprint (2017)*. [\[PDF\]](https://arxiv.org/pdf/1708.08552.pdf)
 
 ## Publications
++ **Learning to Encode Position for Transformer with Continuous Dynamical Model**, Xuanqing Liu, Hsiang-Fu Yu, Inderjit Dhillon, Cho-Jui Hsieh. *To appear at ICML 2020* [\[PDF\]](https://arxiv.org/pdf/2003.09229.pdf)
 + **How Does Noise Help Robustness? Stabilizing Neural ODE Networks with Stochastic Noise**, Xuanqing Liu, Tesi Xiao, Si Si, Qin Cao, Sanjiv Kumar, Cho-Jui Hsieh. *To appear at CVPR 2020* [\[PDF\]](https://arxiv.org/pdf/1906.02355.pdf)
 + **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning**, Xuanqing Liu, Si Si, Xiaojin(Jerry) Zhu, Yang Li, Cho-Jui Hsieh. NeurIPS 2019 [\[PDF\]](https://arxiv.org/pdf/1910.14147.pdf) [\[Poster\]](https://drive.google.com/drive/u/0/folders/1qUWVD0cb4wBsSuaDq9w8SRIXKt1_Y7i1) [\[Code\]](https://github.com/xuanqing94/AdvSSL)
 + **Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks**, Wei-Lin Chiang, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, Cho-Jui Hsieh. *KDD (2019)* [\[PDF\]](https://arxiv.org/pdf/1905.07953.pdf) Code[\[V1\]](https://github.com/infwinston/fastergcn/tree/cluster) [\[V2\]](https://github.com/google-research/google-research/tree/master/cluster_gcn)
@@ -49,4 +50,4 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucla.edu/) at [
 + Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
 
 ## Services
-I review ICML, NeurIPS, CVPR, ICCV, ECCV, IJCAI, AAAI and TPAMI.
+I reviewed ICML, NeurIPS, CVPR, ICCV, ECCV, IJCAI, AAAI, IJCNLP and TPAMI.
