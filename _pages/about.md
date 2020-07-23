@@ -14,7 +14,7 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucla.edu/) at [
 + Robust neural networks
 + Efficient learning of generative models
 
-[Curriculum vitae](/files/cv.pdf)  
+[Curriculum vitae](/files/xuanqing_cv.pdf)  
 
 ## Education
 + Fall 2018 --- Now, Ph.D. student, Department of Computer Science, UCLA
