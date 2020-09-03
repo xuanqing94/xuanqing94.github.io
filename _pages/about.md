@@ -51,4 +51,4 @@ I'm a PhD student of [Computer Science Department](http://www.cs.ucla.edu/) at [
 + Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
 
 ## Services
-I reviewed ICML, NeurIPS, CVPR, ICCV, ECCV, IJCAI, AAAI, IJCNLP and TPAMI.
+I reviewed ICML, NeurIPS, ICLR, CVPR, ICCV, ECCV, IJCAI, AAAI, TPAMI, IJCNLP, JAIR, etc.
