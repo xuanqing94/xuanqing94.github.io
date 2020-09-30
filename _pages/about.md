@@ -32,7 +32,8 @@ I'm a PhD candidate of [Computer Science Department](http://www.cs.ucla.edu/) at
 + **An inexact subsampled proximal Newton-type method for large-scale machine learning**, Xuanqing Liu, Cho-Jui Hsieh\*, Jason D. Lee\*, Yuekai Sun\* (\*alphabetical order). *ArXiv preprint (2017)*. [\[PDF\]](https://arxiv.org/pdf/1708.08552.pdf)
 
 ## Publications
-+ **Quantifying Marker Expression of Live Mesenchymal Stromal Cells Using Transmitted Light Microscopy**, Brandon Lee, Sara Imboden, Xuanqing Liu, Cho-Jui Hsieh, Neil Lin. *To appear at BMES 2020*
++ **Provably Robust Metric Learning**, Lu Wang, Xuanqing Liu, Jinfeng Yi, Yuan Jiang, Cho-Jui Hsieh. *To appear at NeurIPS 2020*
++ **Quantifying Marker Expression of Live Mesenchymal Stromal Cells Using Transmitted Light Microscopy**, Brandon Lee, Sara Imboden, Xuanqing Liu, Cho-Jui Hsieh, Neil Lin. *BMES 2020*
 + **Learning to Encode Position for Transformer with Continuous Dynamical Model**, Xuanqing Liu, Hsiang-Fu Yu, Inderjit Dhillon, Cho-Jui Hsieh. *ICML 2020* [\[PDF\]](https://arxiv.org/pdf/2003.09229.pdf)
 + **How Does Noise Help Robustness? Stabilizing Neural ODE Networks with Stochastic Noise**, Xuanqing Liu, Tesi Xiao, Si Si, Qin Cao, Sanjiv Kumar, Cho-Jui Hsieh. *CVPR 2020 (oral presentation)* [\[PDF\]](https://arxiv.org/pdf/1906.02355.pdf)
 + **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning**, Xuanqing Liu, Si Si, Xiaojin(Jerry) Zhu, Yang Li, Cho-Jui Hsieh. NeurIPS 2019 [\[PDF\]](https://arxiv.org/pdf/1910.14147.pdf) [\[Poster\]](https://drive.google.com/drive/u/0/folders/1qUWVD0cb4wBsSuaDq9w8SRIXKt1_Y7i1) [\[Code\]](https://github.com/xuanqing94/AdvSSL)
@@ -46,9 +47,12 @@ I'm a PhD candidate of [Computer Science Department](http://www.cs.ucla.edu/) at
 + **Better Generalization by Efficient Trust Region Method**. Xuanqing Liu, Jason D. Lee, Cho-Jui Hsieh. *OpenReview.net*. [\[PDF\]](https://openreview.net/pdf?id=HJjePwx0-)
 
 ## Experience
++ Fall 2020, **Research Scientist Intern**, *Amazon A9* (Palo Alto, CA)
 + Summer/Fall 2019, **Research Scientist Intern**, *Amazon A9* (Palo Alto, CA)
 + Fall/Winter 2018, **Student Research Collaborator**, *Google Research* (Mountain View, CA)
 + Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
 
 ## Services
-I reviewed ICML, NeurIPS, ICLR, CVPR, ICCV, ECCV, IJCAI, AAAI, TPAMI, IJCNLP, JAIR, etc.
+I reviewed ICML*, NeurIPS, ICLR, CVPR, ICCV, ECCV, WACV, IJCAI, AAAI, TPAMI, IJCNLP, JAIR, etc.
+
+*Top 33% Reviewer in ICML 2020.
