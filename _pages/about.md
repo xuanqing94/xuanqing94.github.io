@@ -32,7 +32,7 @@ I'm a PhD candidate of [Computer Science Department](http://www.cs.ucla.edu/) at
 + **An inexact subsampled proximal Newton-type method for large-scale machine learning**, Xuanqing Liu, Cho-Jui Hsieh\*, Jason D. Lee\*, Yuekai Sun\* (\*alphabetical order). *ArXiv preprint (2017)*. [\[PDF\]](https://arxiv.org/pdf/1708.08552.pdf)
 
 ## Publications
-+ **Provably Robust Metric Learning**, Lu Wang, Xuanqing Liu, Jinfeng Yi, Yuan Jiang, Cho-Jui Hsieh. *To appear at NeurIPS 2020* [\[PDF\]](https://arxiv.org/pdf/2006.07024.pdf) [\[Code\]](https://github.com/wangwllu/adversarially_robust_metric_learning)
++ **Provably Robust Metric Learning**, Lu Wang, Xuanqing Liu, Jinfeng Yi, Yuan Jiang, Cho-Jui Hsieh. *To appear at NeurIPS 2020* [\[PDF\]](https://arxiv.org/pdf/2006.07024.pdf) [\[Code\]](https://github.com/wangwllu/provably_robust_metric_learning)
 + **Quantifying Marker Expression of Live Mesenchymal Stromal Cells Using Transmitted Light Microscopy**, Brandon Lee, Sara Imboden, Xuanqing Liu, Cho-Jui Hsieh, Neil Lin. *BMES 2020*
 + **Learning to Encode Position for Transformer with Continuous Dynamical Model**, Xuanqing Liu, Hsiang-Fu Yu, Inderjit Dhillon, Cho-Jui Hsieh. *ICML 2020* [\[PDF\]](https://arxiv.org/pdf/2003.09229.pdf) [\[Code\]](https://github.com/xuanqing94/FLOATER) [\[Media\]](https://www.amazon.science/blog/how-to-teach-transformers-to-care-about-word-order)
 + **How Does Noise Help Robustness? Stabilizing Neural ODE Networks with Stochastic Noise**, Xuanqing Liu, Tesi Xiao, Si Si, Qin Cao, Sanjiv Kumar, Cho-Jui Hsieh. *CVPR 2020 (oral presentation)* [\[PDF\]](https://arxiv.org/pdf/1906.02355.pdf) [\[Code\]](https://github.com/xuanqing94/NeuralSDE)
