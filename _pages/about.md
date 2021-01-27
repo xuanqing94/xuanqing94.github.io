@@ -21,7 +21,18 @@ I'm a PhD candidate of [Computer Science Department](http://www.cs.ucla.edu/) at
 + Fall 2016 --- Spring 2018 (transferred out), Ph.D. student, Department of Computer Science, UC Davis
 + Fall 2011 --- Spring 2016, School of Physics, Peking University
 
+## Experience
++ Fall/Winter 2020, **Research Scientist Intern**, *Amazon A9* (Palo Alto, CA)
++ Summer/Fall 2019, **Research Scientist Intern**, *Amazon A9* (Palo Alto, CA)
++ Fall/Winter 2018, **Student Research Collaborator**, *Google Research* (Mountain View, CA)
++ Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
+
 ## News
+
+## Teaching
++ UC Davis ECS 171. *Machine Learning*
++ UCLA CS 180. *Algorithm*
++ UCLA CS 260. *Machine Learning Algorithms*
 
 ## Preprints
 + **Gradient Boosting Neural Networks: GrowNet**, Sarkhan Badirli, Xuanqing Liu, Zhengming Xing, Avradeep Bhowmik, Sathiya S. Keerthi. *ArXiv preprint (2020)* [\[PDF\]](https://arxiv.org/pdf/2002.07971.pdf) [\[Code\]](https://github.com/sbadirli/GrowNet)
@@ -46,12 +57,6 @@ I'm a PhD candidate of [Computer Science Department](http://www.cs.ucla.edu/) at
 
 ## Drafts
 + **Better Generalization by Efficient Trust Region Method**. Xuanqing Liu, Jason D. Lee, Cho-Jui Hsieh. *OpenReview.net*. [\[PDF\]](https://openreview.net/pdf?id=HJjePwx0-)
-
-## Experience
-+ Fall 2020, **Research Scientist Intern**, *Amazon A9* (Palo Alto, CA)
-+ Summer/Fall 2019, **Research Scientist Intern**, *Amazon A9* (Palo Alto, CA)
-+ Fall/Winter 2018, **Student Research Collaborator**, *Google Research* (Mountain View, CA)
-+ Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
 
 ## Services
 I reviewed ICML*, NeurIPS, ICLR, CVPR, ICCV, ECCV, WACV, IJCAI, AAAI, TPAMI, IJCNLP, JAIR, etc.
