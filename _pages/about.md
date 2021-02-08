@@ -35,6 +35,8 @@ I'm a PhD candidate of [Computer Science Department](http://www.cs.ucla.edu/) at
 + UCLA CS 260. *Machine Learning Algorithms*
 
 ## Preprints
++ **Improving the Speed and Quality of GAN by Adversarial Training**, Jiachen Zhong, Xuanqing Liu, Cho-Jui Hsieh. *ArXiv preprint (2020)* [\[PDF\]](https://arxiv.org/pdf/2008.03364.pdf) [\[Code\]](https://github.com/julightzhong10/fastgan)
++ **How much progress have we made in neural network training? A New Evaluation Protocol for Benchmarking Optimizers**, Yuanhao Xiong, Xuanqing Liu, Li-Cheng Lan, Yang You, Si Si, Cho-Jui Hsieh. *ArXiv preprint (2020)* [\[PDF\]](https://arxiv.org/pdf/2010.09889.pdf)
 + **Gradient Boosting Neural Networks: GrowNet**, Sarkhan Badirli, Xuanqing Liu, Zhengming Xing, Avradeep Bhowmik, Sathiya S. Keerthi. *ArXiv preprint (2020)* [\[PDF\]](https://arxiv.org/pdf/2002.07971.pdf) [\[Code\]](https://github.com/sbadirli/GrowNet)
 + **Evaluating the Robustness of Nearest Neighbor Classifiers: A Primal-Dual Perspective**, Lu Wang, Xuanqing Liu, Jinfeng Yi, Zhi-Hua Zhou, Cho-Jui Hsieh
 . *ArXiv preprint (2019)* [\[PDF\]](https://arxiv.org/pdf/1906.03972.pdf) [\[Code\]](https://github.com/wangwllu/knn_robustness)
