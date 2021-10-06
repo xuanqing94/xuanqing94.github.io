@@ -45,7 +45,7 @@ I'm a PhD candidate of [Computer Science Department](http://www.cs.ucla.edu/) at
 + **An inexact subsampled proximal Newton-type method for large-scale machine learning**, Xuanqing Liu, Cho-Jui Hsieh\*, Jason D. Lee\*, Yuekai Sun\* (\*alphabetical order). *ArXiv preprint (2017)*. [\[PDF\]](https://arxiv.org/pdf/1708.08552.pdf)
 
 ## Publications
-+ **Label Disentanglement in Partition-based Extreme Multilabel Classification**, Xuanqing Liu, Wei-Cheng Chang, Hsiang-Fu Yu, Cho-Jui Hsieh, Inderjit S Dhillon. *To appear at NeurIPS 2021* [\[PDF\]]
++ **Label Disentanglement in Partition-based Extreme Multilabel Classification**, Xuanqing Liu, Wei-Cheng Chang, Hsiang-Fu Yu, Cho-Jui Hsieh, Inderjit S Dhillon. *To appear at NeurIPS 2021* [\[PDF\]](https://arxiv.org/pdf/2106.12751.pdf)
 + **Investigating heterogeneities of live mesenchymal stromal cells using AI-based label-free imaging**, Sara Imboden\*, Xuanqing Liu\*, Brandon S. Lee, Cho-Jui Hsieh, Neil Y. C Lin (\*Equal Contribution). *Scientific Reports* [\[PDF\]](https://www.nature.com/articles/s41598-021-85905-z)
 + **Evaluations and Methods for Explanation through Robustness Analysis**, Cheng-Yu Hsieh, Chih-Kuan Yeh, Xuanqing Liu, Pradeep Kumar Ravikumar, Seungyeon Kim, Sanjiv Kumar, Cho-Jui Hsieh. *ICLR 2021* [\[PDF\]](https://openreview.net/pdf?id=4dXmpCDGNp7)
 + **Provably Robust Metric Learning**, Lu Wang, Xuanqing Liu, Jinfeng Yi, Yuan Jiang, Cho-Jui Hsieh. *NeurIPS 2020* [\[PDF\]](https://arxiv.org/pdf/2006.07024.pdf) [\[Code\]](https://github.com/wangwllu/provably_robust_metric_learning)
