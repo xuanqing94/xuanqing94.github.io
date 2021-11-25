@@ -17,7 +17,7 @@ I'm obtained my Ph.D. in [Computer Science](http://www.cs.ucla.edu/) at [UCLA](h
 [Curriculum vitae](/files/xuanqing_cv.pdf)  
 
 ## News
-+ (Dec. 2021) <span style="color:blue">I work in industry after graduation, this website is no longer actively maintained. If you have questions regarding to my previous works, send me an email (<code>&lt;fullname&gt;@outlook.com</code>, replace <code>&lt;fullname&gt;</code> with xuanqingliu).</span>
++ (Dec. 2021) <span style="color:blue">I work in industry after graduation. This website is no longer actively maintained. If you have questions regarding to my previous works, send me an email (<code>&lt;fullname&gt;@outlook.com</code>, replace <code>&lt;fullname&gt;</code> with xuanqingliu).</span>
 
 
 ## Education
