@@ -28,7 +28,7 @@ I'm obtained my Ph.D. in [Computer Science](http://www.cs.ucla.edu/) at [UCLA](h
 + Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
 
 ## News
-+ (Dec. 2021) <span style="color:blue">I work in industry after graduation, this website is no longer actively maintained. If you have questions regarding to my previous works, send me an email (<code><fullname>@outlook.com</code>, replace <code><fullname></code> with xuanqingliu).</span>
++ (Dec. 2021) <span style="color:blue">I work in industry after graduation, this website is no longer actively maintained. If you have questions regarding to my previous works, send me an email (<code>&lt fullname &gt@outlook.com</code>, replace <code><fullname></code> with xuanqingliu).</span>
 
 ## Teaching
 + UC Davis ECS 171. *Machine Learning*
