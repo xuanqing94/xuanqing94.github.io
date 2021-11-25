@@ -16,6 +16,10 @@ I'm obtained my Ph.D. in [Computer Science](http://www.cs.ucla.edu/) at [UCLA](h
 
 [Curriculum vitae](/files/xuanqing_cv.pdf)  
 
+## News
++ (Dec. 2021) <span style="color:blue">I work in industry after graduation, this website is no longer actively maintained. If you have questions regarding to my previous works, send me an email (<code>&lt;fullname&gt;@outlook.com</code>, replace <code>&lt;fullname&gt;</code> with xuanqingliu).</span>
+
+
 ## Education
 + Fall 2018 --- Fall 2021, Ph.D., Department of Computer Science, UCLA
 + Fall 2016 --- Spring 2018, Ph.D. student, Department of Computer Science, UC Davis
@@ -26,9 +30,6 @@ I'm obtained my Ph.D. in [Computer Science](http://www.cs.ucla.edu/) at [UCLA](h
 + Summer/Fall 2019, **Research Scientist Intern**, *Amazon A9* (Palo Alto, CA)
 + Fall/Winter 2018, **Student Research Collaborator**, *Google Research* (Mountain View, CA)
 + Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
-
-## News
-+ (Dec. 2021) <span style="color:blue">I work in industry after graduation, this website is no longer actively maintained. If you have questions regarding to my previous works, send me an email (<code>&lt fullname &gt@outlook.com</code>, replace <code><fullname></code> with xuanqingliu).</span>
 
 ## Teaching
 + UC Davis ECS 171. *Machine Learning*
