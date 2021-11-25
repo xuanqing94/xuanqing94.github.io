@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xuanqing Liu"
+  name             : "Liu, Xuanqing (刘轩清)"
   avatar           : "profile.jpg"
   bio              : "Ph.D. student"
   location         : "EVI 295, UCLA"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/xuanqing-liu-5691771b6/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
