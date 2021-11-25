@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate of [Computer Science Department](http://www.cs.ucla.edu/) at [UCLA](https://www.ucla.edu/), advised by [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/). Prior to that, I received my B.S. degree at [School of Physics](http://www.phy.pku.edu.cn/English.html), [Peking University](http://english.pku.edu.cn/) in 2016 (thesis advisor: [Qite Li](http://www.phy.pku.edu.cn/~liqt/index.html)). Before graduation, I was a research intern studying natural language processing, advised by [Yansong Feng](https://sites.google.com/site/ysfeng/home). Currently my reseach interests are optimization problems in machine learning, robust neural networks and generative modeling, specifically:
+I'm obtained my Ph.D. in [Computer Science](http://www.cs.ucla.edu/) at [UCLA](https://www.ucla.edu/), advised by [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/). Prior to that, I received my B.S. degree at [School of Physics](http://www.phy.pku.edu.cn/English.html), [Peking University](http://english.pku.edu.cn/) in 2016 (thesis advisor: [Qite Li](http://www.phy.pku.edu.cn/~liqt/index.html)). Before graduation, I was a research intern studying natural language processing, advised by [Yansong Feng](https://sites.google.com/site/ysfeng/home). Currently my reseach interests are optimization problems in machine learning, robust neural networks and generative modeling, specifically:
 
 + Convex/non-convex optimization algorithms for efficient machine learning
 + Robust neural networks
@@ -17,8 +17,8 @@ I'm a PhD candidate of [Computer Science Department](http://www.cs.ucla.edu/) at
 [Curriculum vitae](/files/xuanqing_cv.pdf)  
 
 ## Education
-+ Fall 2018 --- Now, Ph.D. student, Department of Computer Science, UCLA
-+ Fall 2016 --- Spring 2018 (transferred out), Ph.D. student, Department of Computer Science, UC Davis
++ Fall 2018 --- Fall 2021, Ph.D., Department of Computer Science, UCLA
++ Fall 2016 --- Spring 2018, Ph.D. student, Department of Computer Science, UC Davis
 + Fall 2011 --- Spring 2016, School of Physics, Peking University
 
 ## Experience
@@ -28,6 +28,7 @@ I'm a PhD candidate of [Computer Science Department](http://www.cs.ucla.edu/) at
 + Summer 2018, **Research Scientist Intern**, *Criteo Lab* (Palo Alto, CA)
 
 ## News
++ (Dec. 2021) I work in industry after graduation, this website is no longer actively maintained. If you have questions regarding to my previous works, send me an email (<fullname>@outlook.com, replace <fullname> with xuanqingliu).
 
 ## Teaching
 + UC Davis ECS 171. *Machine Learning*
