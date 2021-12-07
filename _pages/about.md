@@ -61,9 +61,6 @@ I'm obtained my Ph.D. in [Computer Science](http://www.cs.ucla.edu/) at [UCLA](h
 + **Towards Robust Neural Networks via Random Self-ensemble**, Xuanqing Liu, Minhao Cheng, Huan Zhang, Cho-Jui Hsieh. *ECCV (2018)*. [\[PDF\]](https://arxiv.org/pdf/1712.00673.pdf) [\[Appendix\]](/files/RSE_supp.pdf) [\[Code\]](https://github.com/xuanqing94/RobustNet)
 + **Fast Variance Reduction Method with Stochastic Batch Size**. Xuanqing Liu, Cho-Jui Hsieh. *ICML (2018)*. [\[PDF\]](https://arxiv.org/pdf/1808.02169.pdf)
 
-## Drafts
-+ **Better Generalization by Efficient Trust Region Method**. Xuanqing Liu, Jason D. Lee, Cho-Jui Hsieh. *OpenReview.net*. [\[PDF\]](https://openreview.net/pdf?id=HJjePwx0-)
-
 ## Services
 I reviewed ICML*, NeurIPS, ICLR, CVPR, ICCV, ECCV, WACV, IJCAI, AAAI, TPAMI, IJCNLP, JAIR, etc.
 
